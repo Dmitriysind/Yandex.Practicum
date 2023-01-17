@@ -45,4 +45,4 @@
 
 ## Используемые библиотеки
 
-`pandas`, `numpy`, `matplotlib`, `sklearn`, `torch`, `SQLAlchemy`, `seaborn`, `skorch`, `catboost`, `phik`
+`pandas`, `numpy`, `matplotlib`, `sklearn`, `Pytorch`, `SQLAlchemy`, `seaborn`, `skorch`, `catboost`, `phik`
